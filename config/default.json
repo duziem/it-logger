@@ -1,0 +1,3 @@
+{
+    "mongoURI":  "mongodb+srv://francis:Duziem8051@@reactcluster.i3kgv.mongodb.net/itLoggerDb?retryWrites=true&w=majority"
+}
